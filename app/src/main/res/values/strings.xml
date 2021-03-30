@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppTvQBODatastore</string>
+    <string name="valetusuario">Ingrese su usuario</string>
+    <string name="valetpassword">Ingrese su password</string>
+    <string name="valbtnlogin">LOGIN</string>
+    <string name="valtvtitulo">AUTENTICACIÓN AL APP</string>
+</resources>
